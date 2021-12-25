@@ -1,0 +1,16 @@
+/*style for radio selection part in the header*/
+.rtForm {
+    margin-top: 10px; 
+    margin-left: auto;
+}
+
+.rtLabel {
+    margin:5px;
+}
+
+@media all and (max-width:720px){
+    .rtForm{
+      margin:auto;
+      margin-bottom: 10px;
+    }
+  }

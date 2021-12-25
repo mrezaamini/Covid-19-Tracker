@@ -1,0 +1,38 @@
+/*style for history part and other parts in it*/
+.historyPane {
+    padding-top: 10px;
+}
+
+.historyPane button {
+    background-color:#04AA6D;
+    color: #ffffff;
+    width: 50px;
+    height: 30px;
+    font-size: 12px;
+    text-align: center;
+    border-radius: 2px;
+    text-shadow: none;
+    cursor: pointer;
+    border:none;
+    margin-top:20px;
+}
+
+.historyPane button:hover {
+    background-color:#00c37c;
+}
+
+.historyPane li {
+    text-align: left;
+    padding: 5px;
+    text-transform: capitalize;
+}
+
+.historyPane ul{
+    margin-left: 20px;
+}
+
+@media all and (max-width:720px){
+.historyPane ul{
+    margin-left: 2px;
+}
+}

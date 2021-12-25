@@ -1,0 +1,5 @@
+/*loading gif style*/
+.gifContainer {
+    display: flex;
+    justify-content: center;
+}

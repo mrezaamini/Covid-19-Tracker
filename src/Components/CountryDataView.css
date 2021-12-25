@@ -1,0 +1,61 @@
+/*style for main country data view and each divs to arrange them in main content part and style them */
+.countryInfo{
+    margin-left: 40px;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.caseCriticalContainer{
+    display:flex;
+    margin-bottom: 10px;
+    
+}
+
+.recoverDeathContainer{
+    display:flex;
+    margin-bottom: 7px;
+    
+}
+
+.criticalContainer{
+    flex:1
+}
+.caseContainer{
+    flex:1
+}
+.recoverContainer{
+    flex:1
+}
+.deathContainer{
+    flex:1
+}
+
+.countryName{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.cases{
+    font-size:22px;
+}
+
+.recovered{
+    font-size:22px;
+
+    color:green;
+}
+
+.deaths{
+    font-size:22px;
+
+    color:red;
+}
+
+.critical{
+    font-size:22px;
+}
+
+.divider{
+    height: 2px;
+    background-color:#18674a;
+    margin-right:40px;
+}
