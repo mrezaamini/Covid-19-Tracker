@@ -1,4 +1,4 @@
-# Covid-19-Tracker
+# Covid-19 Tracker
 react page for tracking covid-19 cases across the world
 
 ## Table of Contents
