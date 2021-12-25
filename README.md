@@ -1,5 +1,5 @@
 # Covid-19 Tracker
-react page for tracking covid-19 cases across the world
+Responsive React page for tracking covid-19 cases across the world (with localStorage for history data)
 
 ## Table of Contents
 - [Description](#description)
