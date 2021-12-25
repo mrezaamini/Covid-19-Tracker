@@ -1,5 +1,5 @@
 # Covid-19 Tracker
-Responsive React page for tracking covid-19 cases across the world (with localStorage for history data)
+Responsive React page for tracking covid-19 cases across the world (with localStorage for history data).
 
 ## Table of Contents
 - [Description](#description)
@@ -9,7 +9,7 @@ Responsive React page for tracking covid-19 cases across the world (with localSt
 - [License](#license)
 
 ## Description:
-This project is a Responsive Covid-19 tracker react page. If search box is empty then when you search (hitting Enter or clicking Go) it returns top 5 countries based on the selection client had in radio selection box (Report Type). Otherwise, client cant search for a country information (today cases, recovered, deaths, critical) by simply searching country's name (full name, iso2, iso3). History section contains search history that uses localStorage to store history data and by clicking on clear button client can erase history. 
+This project is a Responsive Covid-19 tracker react page. If search box is empty then when you search (hitting Enter or clicking Go) it returns top 5 countries based on the selection client had in radio selection box (Report Type). Otherwise, client cant search for a country information (today cases, recovered, deaths, critical) by simply searching country's name (full name, iso2, iso3). History section contains search history that uses localStorage to store history data and by clicking on clear button client can erase history. This project gets data from this [API](https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest#f3782d0a-53db-4024-ab1c-95e3bd8c33ec).
 
 Horizontal            |  vertical         
 :-------------------------:|:-------------------------:
